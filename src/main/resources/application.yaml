@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Cadastro-Usuarios
+  datasource:
+    url: jdbc:postgresql://localhost:5435/usuarios
+    username: postgres
+    password: postgres
